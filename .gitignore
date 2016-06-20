@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/Moloko/__vm/.Moloko.vsarduino.h
+/Moloko/__vm/Compile.vmps.xml
+/Moloko/__vm/Configuration.Debug.vmps.xml
+/Moloko/Debug/board.buildinfo
+*.elf
+*.hex
+/Moloko/Moloko.vcxproj.filters
